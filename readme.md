@@ -1,4 +1,4 @@
-Documentation: tbd
+Documentation: https://haxalotts-developments.gitbook.io/documentation/documentation/hx_ammobox
 
 Installation:
 
